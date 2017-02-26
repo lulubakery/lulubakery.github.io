@@ -21,6 +21,8 @@ Credits:
 
 	Demo Images:
 		Unsplash (unsplash.com)
+		cheese cake (http://www.freshfromflorida.com/Recipes/Desserts/Florida-Blueberry-Cheesecake)
+		carrot cake ()
 
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
